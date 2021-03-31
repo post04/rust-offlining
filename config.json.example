@@ -1,0 +1,8 @@
+{
+	"token": "",    // the token of the bot
+	"players": [],  // the players you will be tracking, you can just add them with the addplayer command
+	"prefix": ".",  // the prefix of the bot
+	"channelID": "",// the channel id the bot will be posting the updating message in
+	"guildID": "",  // the guild id where the bot is going to be used
+	"messageID": "" // leave blank this will automatically fill in
+}
